@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabricio Oliveira
-- 👀 I'm interested in coding challenges in general. I love coding and learning new things. My current favorite software language is Javascript, but I like to take coding in several other languages as well, like (Go, Elixier, Kotlin, Python, Ruby and Typescript)
-- 🌱 I'm currently learning GCP, I have strongly knowledge of AWS and in the main services (EC2, S3, ECS, DynamoDB, RDS, etc) and Now I am trying to learn more about the GCP services.
+- 👀 I'm interested in coding challenges in general. I love coding and learning new things. My current favorite programming language is JavaScript, but I also enjoy tackling coding challenges in several other languages such as Go, Elixir, Python, and TypeScript
+- 🌱 I'm currently learning Google Cloud Platform (GCP). I have a strong knowledge of AWS and its main services such as EC2, S3, ECS, DynamoDB, and RDS, among others. Now, I am expanding my knowledge and exploring the GCP services to further enhance my skills.
 - 📫 You can reach me through https://www.linkedin.com/in/fabricio-oliveira-b2b88873/
 
 <!---
